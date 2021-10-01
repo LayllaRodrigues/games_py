@@ -13,7 +13,7 @@ if (numero_secreto == chute):
 else:
     if (chute > numero_secreto):
         print("Você errou! O seu chute foi maior que o número secreto.")
-    if (chute < numero_secreto):
+    else:
         print("Você errou! O seu chute foi menor que o número secreto.")
 
 print("Fim do jogo")
