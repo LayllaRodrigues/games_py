@@ -1,3 +1,4 @@
 # games_py
 
-Jogos em python para aprendizado
+Games em python para aprendizado
+1.0
